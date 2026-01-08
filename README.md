@@ -28,7 +28,7 @@
 
 - **Email:** [pradeep1992official@gmail.com](mailto:[pradeep1992official@gmail.com])
 -  **Portfolio:** [Explore ↗️](https://hasmashruthi.netlify.app/)
--   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasmashruthi/)
+-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepsrinivasan1992/)
 
   Feel free to explore my repository 😊!!
 
