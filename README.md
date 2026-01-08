@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 **Junior Web developer** sharing my journey and learnings in tech.
   
-- 👩🏻‍🎓 **Studied Electronics and communication Engineering** at SNS Institute of technology,Coimbatore. <br/>
+- 👩🏻‍🎓 **Completed Masters in Mechatronics Engineering** at Kongu Engineering College, Erode. <br/>
 
 - 🌷 Served as an Assistant Professor, gaining immense fulfillment from mentoring and inspiring students.<br/>
 
