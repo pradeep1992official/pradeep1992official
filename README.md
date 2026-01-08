@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Hasma Shruthi!  
+# 👋 Hi, I'm Pradeep !  
 
 - 👩🏻‍💻 **Junior Web developer** sharing my journey and learnings in tech.
   
@@ -9,8 +9,6 @@
 
 - 🌱 **I’m currently advancing my expertise in full-stack development**, focusing on technologies such as React.js, Node.js, and MongoDB. <br/>
 
-- 🎓 **Certifications**- Zen Class Full Stack Developer Program **(MERN STACK)**- Issued by **GUVI** (IIT-M Incubated Company)
-        [View Certificate](https://drive.google.com/file/d/1P-lBGU2giu2EA-4ELhrGSf50vDgWcA3H/view?usp=drive_link)
 
 
 ---
@@ -28,7 +26,7 @@
 
 
 
-- **Email:** [shruthiji06@@gmail.com](mailto:shruthiji@gmail.com)
+- **Email:** [pradeep1992official@gmail.com](mailto:[pradeep1992official@gmail.com])
 -  **Portfolio:** [Explore ↗️](https://hasmashruthi.netlify.app/)
 -   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasmashruthi/)
 
