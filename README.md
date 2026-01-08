@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 **Junior Web developer** sharing my journey and learnings in tech.
   
-- 👩🏻‍🎓 **Completed Masters in Mechatronics Engineering** at Kongu Engineering College, Erode. <br/>
+- 👩🏻‍🎓 **Completed Master's in Mechatronics Engineering** at Kongu Engineering College, Erode. <br/>
 
 - 🌷 Served as an Assistant Professor, gaining immense fulfillment from mentoring and inspiring students.<br/>
 
